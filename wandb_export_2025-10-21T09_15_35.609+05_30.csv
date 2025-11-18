@@ -1,0 +1,4 @@
+name,smiles,moleculefilepath,molecule_2Dfilepath
+resveratrol,Oc1ccc(cc1)C=Cc1cc(O)cc(c1)O,media/molecule/602cedcf4078a18a6994/molecules_0_602cedcf4078a18a6994.pdb,media/images/ed576403a2ed67505763.png
+ciprofloxacin,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,media/molecule/4e0da91f79b4db806bfd/molecules_0_4e0da91f79b4db806bfd.pdb,media/images/1fc35d2f6b6ab8c1cdc9.png
+acetic acid,CC(=O)O,media/molecule/8fd9ade734470ec05fdb/molecules_0_8fd9ade734470ec05fdb.pdb,media/images/fa3f5a83bf007d882dc3.png
